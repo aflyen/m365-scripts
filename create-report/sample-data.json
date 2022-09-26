@@ -1,0 +1,20 @@
+[
+    {
+        "city": "Oslo",
+        "temperature": "+7 °C",
+        "wind": "7.8 m/s",
+        "description": "Partly cloudy"
+    },
+    {
+        "city": "Trondheim",
+        "temperature": "+13 °C",
+        "wind": "7.2 m/s",
+        "description": "Partly cloudy"
+    },
+    {
+        "city": "Bergen",
+        "temperature": "+9 °C",
+        "wind": "2 m/s",
+        "description": "Rain shower"
+    }
+]
